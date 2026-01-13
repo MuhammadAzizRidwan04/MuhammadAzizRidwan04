@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Muhammad Aziz Ridwan 👋
 
 ## 🚀 About Me
 I'm a passionate **Full Stack Developer** with a love for creating elegant solutions to complex problems. I enjoy working with cutting-edge technologies and contributing to open-source projects.
