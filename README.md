@@ -49,36 +49,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAzizRidwan04&show_icons=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MuhammadAzizRidwan04" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAzizRidwan04&row=1&column=6" />
-</p>
-
----
-
-## 📫 Connect With Me
-<p>
-  <a href="https://github.com/MuhammadAzizRidwan04">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ _Keep learning, keep building._
